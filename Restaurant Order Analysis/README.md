@@ -29,7 +29,7 @@ Identified the top 5 highest-spend orders and analyzed which items were purchase
 
 Conducted a detailed breakdown of the single highest-spend order.
 
-Bonus analysis included reviewing details of the top 5 highest-spend orders.
+Bonus Analysis included reviewing details of the top 5 highest-spend orders.
 
 ## Key Outcomes
 Clear identification of best-performing and least-ordered menu items.
